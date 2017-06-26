@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Save your development time.
-
 Do you love lightning way of componentizing things, but miss good\`ol Visualforce out of box way of handling picklist input field just by using <apex:inputField/>, worry no more, will show you how to create a reusable lightning component named *c:inputPicklist* to achieve the same.
 
 
