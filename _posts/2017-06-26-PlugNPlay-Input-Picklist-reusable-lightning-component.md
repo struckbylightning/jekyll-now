@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Save your development time.
 
@@ -18,5 +18,3 @@ Important Attributes
 - object(String)    : Name of the object
 - labelClass(String): List of classes to be applied on label separated by .space.
 - Class(String)     : List of classes to be applied on picklist dropdown separated by space.
-
-
