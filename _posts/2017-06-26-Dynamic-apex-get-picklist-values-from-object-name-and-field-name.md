@@ -3,9 +3,8 @@ published: true
 layout: post
 ---
 
-## Dynamic apex get picklist values from object name and field name
-
-```public static List<String> 
+{% highlight text %}
+public static List<String> 
 		getPicklistFieldValues(String objectName, String pickListFieldName){
         List<String> picklistValues = new List<String>();
         SObjectType objectType = Schema.getGlobalDescribe().get(objectName);
@@ -18,4 +17,4 @@ layout: post
         }
         return picklistValues;
     }
-```
+{% endhighlight%}
