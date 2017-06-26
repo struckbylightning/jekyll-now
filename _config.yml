@@ -19,17 +19,17 @@ avatar: https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/26a1
 footer-links:
   dribbble:
   email: nikunj.sfdc@gmail.com
-  facebook: https://www.facebook.com/Nikunj831991
+  facebook: Nikunj831991
   flickr:
   github: struckbylightning/struckbylightning.github.io
   instagram:
-  linkedin: https://www.linkedin.com/in/nikunj-doshi-%E2%98%81-9a82b231/
+  linkedin: nikunj-doshi-%E2%98%81-9a82b231/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: nikunj.doshi
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: nikunjdoshiDreamer# anything in your profile username that comes after plus.google.com/
+  googleplus: +nikunjdoshiDreamer # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
