@@ -2,9 +2,6 @@
 layout: post
 title: 'Layman`s guide to lightning component development'
 published: true
----
----
-layout: default
 comments: true
 # other options
 ---
