@@ -1,6 +1,10 @@
 ---
 published: true
 ---
+---
+layout: post
+---
+
 ## Dynamic apex get picklist values from object name and field name
 
 ```public static List<String> getPicklistFieldValues(String objectName, String pickListFieldName){
