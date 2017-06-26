@@ -3,7 +3,7 @@ published: true
 layout: post
 ---
 
-{% highlight text %}
+{% highlight java linenos=table %}
 public static List<String> 
 		getPicklistFieldValues(String objectName, String pickListFieldName){
         List<String> picklistValues = new List<String>();
