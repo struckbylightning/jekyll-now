@@ -1,8 +1,13 @@
 ---
 layout: post
-title: :ayman`s guide to lightning component development
+title: ':ayman`s guide to lightning component development'
+published: true
 ---
-
+---
+layout: default
+comments: true
+# other options
+---
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
