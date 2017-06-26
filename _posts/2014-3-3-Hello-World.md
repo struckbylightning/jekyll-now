@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ':ayman`s guide to lightning component development'
+title: 'Layman`s guide to lightning component development'
 published: true
 ---
 ---
