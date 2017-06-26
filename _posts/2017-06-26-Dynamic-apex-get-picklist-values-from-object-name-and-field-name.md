@@ -3,8 +3,8 @@ published: true
 layout: post
 ---
 ```java
-public static List<String> 
-		getPicklistFieldValues(String objectName, String pickListFieldName){
+public static List<String> getPicklistFieldValues
+							(String objectName, String pickListFieldName){
         List<String> picklistValues = new List<String>();
         SObjectType objectType = Schema.getGlobalDescribe().get(objectName);
         List<Schema.PicklistEntry> pick_list_values = objectType.getDescribe()
