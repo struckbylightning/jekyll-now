@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Dynamic apex get picklist values from object name and field name
 
