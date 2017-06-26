@@ -7,10 +7,11 @@ Do you love lightning way of componentizing things, but miss good\`ol Visualforc
 
 
 Example usage:
-``` html <c:LIInputPicklist class="form-control slds-input“ required="false" object="Contact"
+```html
+<c:LIInputPicklist class="form-control slds-input“ required="false" object="Contact"
                                    label="{!$Label.c.Contact_Salutation}" value="{!v.Contact.Salutation}"
                                    field="Salutation"/>
-                                   ```
+```
 Important Attributes
 - value(String)     : Variable to store/pass the inout selected
 - label(String)     : Label to be displayed for the picklist field
