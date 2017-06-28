@@ -1,12 +1,10 @@
 ---
 published: true
 ---
+****Simple code explaining use of slds-required to get red asterixs for input fields label.
 
-### Simple code explaining use of slds-required to get red asterixs for input fields label.
+![]({{site.baseurl}}/_posts/slds_required_red_asterix_for_input_controls.png)![slds_required_red_asterix_for_input_controls.png]({{site.baseurl}}/_posts/slds_required_red_asterix_for_input_controls.png)
 
-o/p
-
-![slds-required]({{site.baseurl}}/_posts/slds-required%20red%20asterix%20for%20input%20controls.png)
 
 ```html
                             <div class="slds-form-element">
@@ -16,7 +14,7 @@ o/p
                                     </aura:if>
                                     Email Address</label>
                                 <div class="slds-form-element__control">
-                                    <ui:inputText aura:id="cusinfocomp-input4" class="slds-input" value="{!v.contact.Email}" blur="{!c.checkValidate}"/>
+                                    <ui:inputText aura:id="cusinfocomp-input4" class="slds-input" value="                                         {!v.contact.Email}" blur="{!c.checkValidate}"/>
                                 </div>
                             </div>
 ```
