@@ -5,7 +5,7 @@ published: true
 
 ![_slds_required_red_asterix_for_input_controls.png]({{ site.baseurl }}/images/slds_required_red_asterix_for_input_controls.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![slds_required_red_asterix_for_input_controls.png]({{ site.baseurl }}/_posts/slds_required_red_asterix_for_input_controls.png)
 
 ```html
                             <div class="slds-form-element">
