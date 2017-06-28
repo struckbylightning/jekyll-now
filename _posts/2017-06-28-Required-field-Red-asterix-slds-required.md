@@ -3,7 +3,7 @@ published: true
 ---
 ****Simple code explaining use of slds-required to get red asterixs for input fields label.
 
-![]({{site.baseurl}}/_posts/slds_required_red_asterix_for_input_controls.png)![slds_required_red_asterix_for_input_controls.png]({{site.baseurl}}/_posts/slds_required_red_asterix_for_input_controls.png)
+![slds_required_red_asterix_for_input_controls.png]({{site.baseurl}}/images/slds_required_red_asterix_for_input_controls.png)
 
 
 ```html
