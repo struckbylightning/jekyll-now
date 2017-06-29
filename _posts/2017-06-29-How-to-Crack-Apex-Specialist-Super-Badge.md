@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 All the code you need to crack below prequiste Modules and Apex Specialist Superbadge(stepping stone to PD2) can be found at my repo here https://github.com/struckbylightning/JourneyToBecomingApexSpecialist/tree/master. 
 
@@ -21,4 +21,3 @@ Superbadge
 
 Apex Specialist
 - Use integration and business logic to push your Apex coding skills to the limit.
-
